@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "108 LOCK",
+      "hasCanvas": false,
+      "bodyTextLen": 792,
+      "bodyTextHash": "b00d83fcc8448a6ff28d1d1ad7aca7ddaa2bef61d24b4b63b8fe7ef64ca7636f",
+      "bodyTextPrefix": "108 LOCK 108 Night is teal weather with a magenta pulse, analog ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "108 LOCK",
+      "hasCanvas": false,
+      "bodyTextLen": 792,
+      "bodyTextHash": "b00d83fcc8448a6ff28d1d1ad7aca7ddaa2bef61d24b4b63b8fe7ef64ca7636f",
+      "bodyTextPrefix": "108 LOCK 108 Night is teal weather with a magenta pulse, analog ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
