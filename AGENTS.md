@@ -1,10 +1,10 @@
 # 108 LOCK — agent notes
 
-Brand-owned notes for **Amienigma/amienigma-flagship-mobile-ui-demo** (product / visual IP: **108 LOCK**).
+Brand-owned notes for **Amienigma/108-lock** (product / visual IP: **108 LOCK**).
 
 > **108 Night is teal weather with a magenta pulse, analog grain, and one true object from the day — nothing added to win the picture.**
 
-This GitHub repository name is **legacy** until renamed to match 108 LOCK. Package name: `108-lock`.
+GitHub repository: `Amienigma/108-lock`. Package name: `108-lock`.
 
 Companion product: **Amienigma AI** → [amienigma-llm](https://github.com/Amienigma/amienigma-llm).
 

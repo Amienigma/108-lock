@@ -55,9 +55,11 @@ Texas stamps. Stamp one. Mean it.
 
 ---
 
-## Note on this repository
+## Repository
 
-This GitHub repository is still named `amienigma-flagship-mobile-ui-demo`. That name is **legacy** until the repo is renamed to match **108 LOCK**. The work inside is 108 LOCK — not a generic mobile UI demo.
+GitHub: [Amienigma/108-lock](https://github.com/Amienigma/108-lock) · package name `108-lock`.
+
+Former name `amienigma-flagship-mobile-ui-demo` redirected here.
 
 ---
 
